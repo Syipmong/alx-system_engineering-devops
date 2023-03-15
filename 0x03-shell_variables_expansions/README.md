@@ -32,3 +32,6 @@ Write a script that converts a number from base 10 to base 16.
 Write a script that encodes and decodes text using the rot13 encryption. Assume ASCII
 102-odd
 Write a script that prints every other line from the input, starting with the first line.
+103-water_and_stir
+Write a shell script that adds the two numbers stored in the environment variables WATER and STIR and prints the result.
+
